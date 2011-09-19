@@ -1,0 +1,33 @@
+BODY
+{
+	background: #000;
+	margin: auto;
+	color: #C00000;
+	text-align: center;
+	font: 1em "lucida sans";
+}
+SECTION
+{
+	/*[disabled]border:1px solid #FF0000;*/
+}
+A
+{
+	color: #6A6A6A;
+}
+IMG
+{
+	padding: 15px;
+	background: #C00000;
+	border: 2px solid #FFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+#open-house, #form-download, #attire-requirements
+{
+	border-bottom: 1px solid #C00000;
+}
+H1, H2
+{
+	color: #FFF;
+}
